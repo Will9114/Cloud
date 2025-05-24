@@ -154,7 +154,7 @@
 
     <?php
     // Configuración de conexión a la base de datos
-    $host = "10.10.0.4"; // Por ejemplo: "localhost"
+    $host = "20.51.9.131"; // Por ejemplo: "localhost"
     $dbname = "mascotas_db";
     $username = "william";
     $password = "alfonso27";
